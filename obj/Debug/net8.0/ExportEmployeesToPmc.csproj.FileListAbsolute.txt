@@ -26,6 +26,7 @@ C:\Libraries\ProjektyKomfort\ExportEmployeesToPmc\obj\Debug\net8.0\ExportEmploye
 C:\Libraries\ProjektyKomfort\ExportEmployeesToPmc\obj\Debug\net8.0\ExportEmployeesToPmc.AssemblyInfoInputs.cache
 C:\Libraries\ProjektyKomfort\ExportEmployeesToPmc\obj\Debug\net8.0\ExportEmployeesToPmc.AssemblyInfo.cs
 C:\Libraries\ProjektyKomfort\ExportEmployeesToPmc\obj\Debug\net8.0\ExportEmployeesToPmc.csproj.CoreCompileInputs.cache
+C:\Libraries\ProjektyKomfort\ExportEmployeesToPmc\obj\Debug\net8.0\ExportEmployeesToPmc.sourcelink.json
 C:\Libraries\ProjektyKomfort\ExportEmployeesToPmc\obj\Debug\net8.0\ExportEm.39B726AB.Up2Date
 C:\Libraries\ProjektyKomfort\ExportEmployeesToPmc\obj\Debug\net8.0\ExportEmployeesToPmc.dll
 C:\Libraries\ProjektyKomfort\ExportEmployeesToPmc\obj\Debug\net8.0\refint\ExportEmployeesToPmc.dll

@@ -35,6 +35,7 @@ namespace ExportEmployeesToPmc.Mappers
                         Imie = a.Field<string>("Imie"),
                         RegionPion = a.Field<string>("RegionPion"),
                         LokalizacjaDzial = a.Field<string>("LokalizacjaDzial"),
+                        Stanowisko = a.Field<string>("Stanowisko"),
                         MiejsceStruktura = a.Field<string>("MiejsceStruktura"),
                         StatusPracownika = a.Field<string>("StatusPracownika"),
                         DataZmianyStanowiska = a.Field<string?>("DataZmianyStanowiska"),

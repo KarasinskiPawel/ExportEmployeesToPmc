@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExportEmployeesToPmc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c410e8d2cffd6a31f6ce62eba45bff2136e8f186")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExportEmployeesToPmc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExportEmployeesToPmc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

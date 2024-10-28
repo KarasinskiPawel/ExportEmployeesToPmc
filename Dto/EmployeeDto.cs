@@ -15,6 +15,7 @@ namespace ExportEmployeesToPmc.Dto
         public string Imie { get; set; }
         public string RegionPion { get; set; }
         public string LokalizacjaDzial { get; set; }
+        public string Stanowisko { get; set; }
         public string MiejsceStruktura { get; set; }
         public string StatusPracownika { get; set; }
         public string DataZmianyStanowiska { get; set; }
