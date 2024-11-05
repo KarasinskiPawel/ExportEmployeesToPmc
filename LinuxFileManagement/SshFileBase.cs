@@ -9,9 +9,9 @@ namespace ExportEmployeesToPmc.LinuxFileManagement
     internal abstract class SshFileBase
     {
 
-        internal string sshHost = "sftp.komfort.pl";
-        internal string user = "pmc";
-        internal string password = "7B6Ov2a8nq9B7Cfp";
+        internal string sshHost = "xxxx.xxxx.xxx";
+        internal string user = "xxx";
+        internal string password = "xxxxxxxxx";
 
         internal string sshInPmcFolderPath = "/IN_PMC/";
         internal string sshInPmcOldFolderPath = "/IN_PMC/old/";
